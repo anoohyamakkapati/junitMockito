@@ -1,4 +1,4 @@
-package com.mkyong.core.controller;
+package com.anoohya.core.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

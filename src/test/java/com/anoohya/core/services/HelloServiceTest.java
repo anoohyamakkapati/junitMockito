@@ -1,4 +1,4 @@
-package com.mkyong.core.services;
+package com.anoohya.core.services;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

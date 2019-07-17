@@ -1,4 +1,4 @@
-package com.mkyong.core.services;
+package com.anoohya.core.services;
 
 import com.mkyong.core.repository.HelloRepository;
 import org.junit.jupiter.api.BeforeEach;
